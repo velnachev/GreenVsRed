@@ -5,7 +5,7 @@
  
  Rules of the game:
  * Green cells are represented by "1"
- * Red cells are represented by "2"
+ * Red cells are represented by "0"
  
  * Each Red cell will become green if surrounded by exactly 3 or 6 Green neighbors
  * Each Green cell will remain Green if surrounded by exactly 2, 3 or 6 Green neighbors
